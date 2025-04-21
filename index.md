@@ -7,7 +7,7 @@
 # 2.添加图像
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
-# 2.添加代码
+# 3.添加代码
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
@@ -17,3 +17,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 var myVar = "Hello, world!";
+# 4.创建任务列表
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+
