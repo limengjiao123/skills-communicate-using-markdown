@@ -7,7 +7,10 @@
 # 2.添加图像
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ```
+
 # 3.添加代码
+
+
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
